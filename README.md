@@ -2,5 +2,4 @@
  I'm Egbuchulam Chinedu ! <br>
 💻 Data Analyst sharing about my journey and learnings in tech<br>
 🔭 I’m currently working on Projects with https://www.amdari.io/ <br>
-💬 Currently learning about data  and Machine learning<br>
 🤔 I’m looking for help with internships in Data Analystic<br>
