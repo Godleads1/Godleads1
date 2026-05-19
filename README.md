@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egbuchulam Chinedu</h1>
-<h3 align="center">Data Analyst with a passion for leveraging analytics to solve business problems. Skilled in modeling and visualization, with a talent for interpreting complex financial data sets to derive actionable insights. Eager to apply statistical analysis and programming skills to contribute to data-driven solutions.</h3>
+<h3 align="center">Data analyst turned founder. I architect sovereign data infrastructure and autonomous intelligence systems — from predictive analytics to secure enterprise platforms. Python • SQL • AWS • Snowflake • React. Infrastructure first. Inference second.</h3>
 
 - 🌱 I’m currently learning **TensorFlow, PyTorch, NumPy, Pandas, Matplotlib & Seaborn**
 
