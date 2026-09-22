@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="330" viewBox="0 0 860 330" role="img" aria-labelledby="title desc">
+<title id="title">Egbuchulam Chinedu Miracle — Founder Engineering Console</title>
+<desc id="desc">Animated signal grid connecting strategy, backend engineering, artificial intelligence, security and product delivery.</desc>
+<style>
+  text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .grid{stroke:#17324a;stroke-width:1;opacity:.45}
+  .node{fill:#071521;stroke:#2dd4bf;stroke-width:2}
+  .signal{fill:none;stroke:#2dd4bf;stroke-width:2;stroke-dasharray:8 12;animation:flow 4s linear infinite}
+  .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.8s ease-in-out infinite}
+  .reveal{opacity:0;animation:reveal .55s ease-out forwards}
+  .r2{animation-delay:.18s}.r3{animation-delay:.36s}.r4{animation-delay:.54s}.r5{animation-delay:.72s}
+  @keyframes flow{to{stroke-dashoffset:-40}}
+  @keyframes pulse{0%,100%{opacity:.45;transform:scale(.92)}50%{opacity:1;transform:scale(1.12)}}
+  @keyframes reveal{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}.reveal{opacity:1}}
+</style>
+<rect width="860" height="330" rx="18" fill="#050b12"/>
+<g class="grid">
+  <path d="M0 55H860M0 110H860M0 165H860M0 220H860M0 275H860"/>
+  <path d="M86 0V330M172 0V330M258 0V330M344 0V330M430 0V330M516 0V330M602 0V330M688 0V330M774 0V330"/>
+</g>
+<rect x="24" y="22" width="812" height="286" rx="14" fill="#07111b" stroke="#1d4059"/>
+<circle cx="50" cy="46" r="5" fill="#fb7185"/><circle cx="68" cy="46" r="5" fill="#fbbf24"/><circle cx="86" cy="46" r="5" fill="#34d399"/>
+<text x="112" y="51" fill="#7896aa" font-size="13">founder-engineering-console</text>
+<text class="reveal" x="50" y="101" fill="#5eead4" font-size="14">$ whoami --purpose</text>
+<text class="reveal r2" x="50" y="137" fill="#e6f1f7" font-size="25" font-weight="700">EGBUCHULAM CHINEDU MIRACLE</text>
+<text class="reveal r3" x="50" y="166" fill="#9bb3c3" font-size="14">FOUNDER × PROJECT LEADER × BACKEND &amp; AI ENGINEERING LEARNER</text>
+<path class="signal" d="M68 239H188L236 207H365L416 239H538L584 207H780"/>
+<g>
+ <circle class="pulse" cx="68" cy="239" r="7" fill="#2dd4bf"/>
+ <circle class="pulse" cx="236" cy="207" r="7" fill="#38bdf8" style="animation-delay:.35s"/>
+ <circle class="pulse" cx="416" cy="239" r="7" fill="#a78bfa" style="animation-delay:.7s"/>
+ <circle class="pulse" cx="584" cy="207" r="7" fill="#fbbf24" style="animation-delay:1.05s"/>
+ <circle class="pulse" cx="780" cy="207" r="7" fill="#34d399" style="animation-delay:1.4s"/>
+</g>
+<g fill="#8aa5b7" font-size="11" text-anchor="middle">
+ <text x="68" y="269">STRATEGY</text><text x="236" y="192">BACKEND</text>
+ <text x="416" y="269">AI</text><text x="584" y="192">SECURITY</text><text x="780" y="192">DELIVERY</text>
+</g>
+<text class="reveal r5" x="50" y="294" fill="#5eead4" font-size="13">status: learning deeply · building honestly · shipping deliberately</text>
+</svg>
