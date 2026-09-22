@@ -4,11 +4,11 @@
 
 ### `godleads1@github:~$ build --secure --useful --measurable`
 
-**Technology Founder · Project Leader · Python Backend & AI Engineering Learner**
+**Technology Founder · Project Leader · Python Backend & AI Engineering**
 
 I turn complex operational problems into secure, practical digital products—connecting business strategy, project delivery, data infrastructure, backend engineering and applied AI.
 
-[LinkedIn](https://www.linkedin.com/in/egbuchulamchinedu/) · [VSURED](https://vsured.com/) · [Email](mailto:egbuchulamchinedu9@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/egbuchulamchinedu/) · [VSURED](https://vsured.com/) · [Email](mailto:egbuchulamchinedu9@gmail.com) · [xspeeria](https://xspeeria.com/) ·  [Yemsays Properties](https://yemsaysproperties.com/) ·  [Softnationhomes](https://softnationhomes.com/)
 
 </div>
 
