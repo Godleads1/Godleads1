@@ -13,6 +13,7 @@ PALETTE = ["#13212d", "#0f4c45", "#0d7668", "#14a38e", "#5eead4"]
 
 
 def main() -> None:
+    """Render saved contribution levels as an accessible animated SVG."""
     payload = json.loads(INPUT.read_text(encoding="utf-8"))
     records = [
         (date.fromisoformat(item["date"]), int(item["level"]))
