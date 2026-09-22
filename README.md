@@ -1,23 +1,73 @@
-<h1 align="center">Hi 👋, I'm Egbuchulam Chinedu</h1>
-<h3 align="center">Data analyst turned founder. I architect sovereign data infrastructure and autonomous intelligence systems — from predictive analytics to secure enterprise platforms. Python • SQL • AWS • Snowflake. Infrastructure first. Inference second.</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **TensorFlow, PyTorch, NumPy, Pandas, Matplotlib & Seaborn**
+<img src="./assets/identity-grid.svg" width="860" alt="Egbuchulam Chinedu Miracle — Founder Engineering Console" />
 
-- 💬 Ask me about **mysql,Python**
+### `godleads1@github:~$ build --secure --useful --measurable`
 
-- 📫 How to reach me **egbuchulamchinedu9@gmail.com**
+**Technology Founder · Project Leader · Python Backend & AI Engineering Learner**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pw0ebsebuQDUXHa9wbcQP3A4ddKRB35K/view?usp=sharing](https://drive.google.com/file/d/1Pw0ebsebuQDUXHa9wbcQP3A4ddKRB35K/view?usp=sharing)
+I turn complex operational problems into secure, practical digital products—connecting business strategy, project delivery, data infrastructure, backend engineering and applied AI.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/egbuchulamchinedu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/egbuchulamchinedu/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/godleads1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/godleads1" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/egbuchulammiracle1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/egbuchulammiracle1/" height="30" width="40" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/egbuchulamchinedu/) · [VSURED](https://vsured.com/) · [Email](mailto:egbuchulamchinedu9@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=godleads1&show_icons=true&locale=en&layout=compact" alt="godleads1" /></p>
+---
 
+### `./current-mission`
+
+- Building secure, trustworthy systems across **enterprise AI, fintech and access technology**
+- Learning and applying **Python backend engineering** and **AI engineering**
+- Working with **FastAPI, PostgreSQL, pgvector, Alembic, Git/GitHub and automated testing**
+- Growing from project leadership into a hands-on **technical founder-operator**
+- Focused on evidence: working software, tests, secure configuration and measurable outcomes
+
+### `./venture-map --status=building`
+
+| Initiative | Mission | My focus |
+|---|---|---|
+| **Dataplegma** | Secure enterprise data infrastructure and proactive intelligence | Data strategy · autonomous AI · trusted systems |
+| **VSURED** | Visitor management and AI-assisted customer support | Product leadership · backend delivery · security |
+| **Xspeeria** | Cross-border financial infrastructure, starting with Nigeria–UK | Strategy · product · partnerships · governance |
+| **KingdomCare** | Secure multi-church community-management platform | Platform vision · multi-tenant design · delivery |
+
+> These initiatives are at different stages of development. I document what is built, what is being tested and what remains planned.
+
+### `./toolbox --mode=learning-by-building`
+
+```text
+Backend       Python · FastAPI · REST APIs · SQLAlchemy · Alembic
+Data          PostgreSQL · pgvector · MySQL · data pipelines
+AI            RAG · embeddings · knowledge retrieval · AI agents
+Delivery      Git · GitHub Actions · pytest · staging workflows
+Cloud         AWS fundamentals · secure deployment patterns
+Leadership    Product strategy · project delivery · governance · partnerships
+```
+
+### `./engineering-principles`
+
+```python
+principles = {
+    "security": "designed in, tested, and evidenced",
+    "delivery": "small milestones with clear acceptance criteria",
+    "data": "trusted, governed, and controlled by its owner",
+    "ai": "grounded, auditable, and connected to real outcomes",
+    "growth": "learn deeply, build honestly, improve continuously",
+}
+```
+
+### `./contributions --source=github`
+
+<img src="./assets/contributions.svg" width="860" alt="Godleads1 contribution activity for the last 53 weeks" />
+
+<sub>Generated inside this repository from GitHub's public contribution calendar. No personal access token or third-party statistics service is used.</sub>
+
+---
+
+<div align="center">
+
+**Open to conversations about backend engineering, applied AI, fintech infrastructure, secure digital products and technical project delivery.**
+
+`Lagos, Nigeria · building systems that earn trust`
+
+</div>
