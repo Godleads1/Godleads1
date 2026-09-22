@@ -14,11 +14,14 @@ OUTPUT = Path("data/contributions.json")
 
 
 class ContributionParser(HTMLParser):
+    """Parse contribution-day attributes from GitHub's public calendar."""
+
     def __init__(self) -> None:
         super().__init__()
         self.days: list[dict[str, object]] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        """Collect a valid contribution cell from the HTML fragment."""
         values = dict(attrs)
         date = values.get("data-date")
         level = values.get("data-level")
@@ -32,6 +35,7 @@ class ContributionParser(HTMLParser):
 
 
 def main() -> None:
+    """Fetch, validate, and store the latest public contribution calendar."""
     request = Request(
         URL,
         headers={
