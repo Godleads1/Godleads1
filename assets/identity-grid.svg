@@ -24,7 +24,7 @@
 <text x="112" y="51" fill="#7896aa" font-size="13">founder-engineering-console</text>
 <text class="reveal" x="50" y="101" fill="#5eead4" font-size="14">$ whoami --purpose</text>
 <text class="reveal r2" x="50" y="137" fill="#e6f1f7" font-size="25" font-weight="700">EGBUCHULAM CHINEDU MIRACLE</text>
-<text class="reveal r3" x="50" y="166" fill="#9bb3c3" font-size="14">FOUNDER × PROJECT LEADER × BACKEND &amp; AI ENGINEERING LEARNER</text>
+<text class="reveal r3" x="50" y="166" fill="#9bb3c3" font-size="14">FOUNDER × PROJECT LEADER × BACKEND &amp; AI ENGINEER</text>
 <path class="signal" d="M68 239H188L236 207H365L416 239H538L584 207H780"/>
 <g>
  <circle class="pulse" cx="68" cy="239" r="7" fill="#2dd4bf"/>
